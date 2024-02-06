@@ -1,0 +1,13 @@
+.mainlogo {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    border: 2px solid black;
+}
+.container-fluid {
+    background-color: #FAB929;
+    margin-top: -8px;
+}
+.navbar navbar-expand-lg bg-body-tertiary {
+margin-bottom: -100px;
+}
